@@ -712,6 +712,11 @@ app.MapControllers();
 app.Run();
 ```
 
+## 7. Swagger api view
+
+![image](https://github.com/user-attachments/assets/350fc993-1f7d-4f6f-b182-04e7d7fc3b20)
+
+
 ## Summary
 
 This implementation:
